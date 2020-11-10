@@ -12,10 +12,7 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
  - [José Manuel Rodriguez](https://github.com/jri1001)
 
 # [Wiki](https://github.com/jrg1011/GESPRO_Teoria_2021/wiki)
- 1. [Tema 01](#Tema-01)
-
-
-## Tema 01 
+ 1. [Introducción y el Manifiesto Ágil](https://github.com/jrg1011/GESPRO_Teoria_2021/wiki/Introducci%C3%B3n-y-el-Manifiesto-%C3%81gil)
 
 ## Herramientas interesantes:
 [Editor MarkDown](https://stackedit.io/app)
