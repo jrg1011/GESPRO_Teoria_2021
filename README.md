@@ -7,7 +7,7 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
  - [Óscar Alonso](https://github.com/oag1001) 
  - [Luis Miguel Aguero](https://github.com/lah1002)
  - [Borja Blanco](https://github.com/bbp1002)
- - [Áxel Rubio]
+ - [Áxel Rubio]()
  - [Iván Ruiz](https://github.com/irg1008)
  - [José Manuel Rodriguez]()
 
