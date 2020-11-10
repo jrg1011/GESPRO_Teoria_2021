@@ -9,7 +9,7 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
  - [Borja Blanco](https://github.com/bbp1002)
  - [Áxel Rubio]()
  - [Iván Ruiz](https://github.com/irg1008)
- - [José Manuel Rodriguez]()
+ - [José Manuel Rodriguez](https://github.com/jri1001)
 
 # [Wiki](https://github.com/jrg1011/GESPRO_Teoria_2021)
 
